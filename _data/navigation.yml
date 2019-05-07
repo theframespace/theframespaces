@@ -6,9 +6,9 @@ main:
      url: /about/
    - title: "memo"
      url: /memo/
-   - title: "archive"
-     url: /year-archive/
+   - title: "memo"
+     url: /collection-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-   - title: "map"
+   - title: "all"
      url: /sitemap/
