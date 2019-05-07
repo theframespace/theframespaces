@@ -6,8 +6,6 @@ main:
      url: /about/
    - title: "memo"
      url: /memo/
-   - title: "memo"
-     url: /collection-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
    - title: "all"
