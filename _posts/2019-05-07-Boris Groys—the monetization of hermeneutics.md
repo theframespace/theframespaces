@@ -25,7 +25,6 @@ Sailors coiling transatlantic telegraph cable on board the Agamemnon. The transa
 13. 현재의 hermeneuticsdms은 모든 비밀들이 공개되는 인터넷에서의 경제개발의 의미로서 다시 태어났다.
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/DraggedImage-1.jpg)
  Aram Bartholl, [Dead Drops](https://deaddrops.com/), 2010. Digital photograph of the anonymous, offline, peer-to- peer, file-sharing network. Courtesy the artist and DAM Gallery
-
 14. 보리스는 인터넷이 뮤지엄보다 교회에 가깝게 역활하고 있다고 주장한다. 아티스트는 아트-메이킹 프로세스 자체로 아트워크로, 아트 production과 art exposure의 관계가 re-synchronizatione되었다.
 15. Sartre argued that the gaze of others “objectifies” us—and in this way negates the possibility of change that defines our sub- jectivity.
 16. 사르트르는 인간 주관주의는 언제나 미래를 향한 프로젝트라고 정의한다. 존재론적으로 보증된 🤐 비밀, 지금현재에는 절대 공개되지 않기에.
