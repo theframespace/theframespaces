@@ -8,3 +8,5 @@ classes: wide
 author_profile: false
 output: true
 ---
+
+A document listing for the collection `memo`.
