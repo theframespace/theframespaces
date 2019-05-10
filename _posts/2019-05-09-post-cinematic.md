@@ -21,13 +21,15 @@ Brian Massumi (2002, 23-45) in differentiating between affect and emotion. For M
 > @ Shaviro@ In the control society, or in the post-Fordist information economy, forms can be changed at will to meet the needs of the immediate situation. The only fixed requirement is precisely to maintain an underlying flexibility: **an ability to take on any shape as needed**, a capacity to adapt quickly and smoothly to the demands of any form, or any procedure, whatsoever
 
 ### Flexibility and Modulation
-현대 사회에서 유연성은 환영받는다. 예전에선 포드공장의 전형으로 각 사람마다 정해진 역활 안에서의 활동이 환영받았다면 현재는 일꾼들은ㅇ
+현대 사회에서 유연성은 환영받는다. 예전에선 포드공장의 전형으로 각 사람마다 정해진 역활 안에서의 활동이 환영받았다면 현재는 일꾼들이
+
 > “must be “adaptible and flexible, able to switch from one situation to a very different one, and adjust to it; and versatile, capable of changing activity or tools, depending on the nature of the relationship entered into with others or with objects” (Boltanski and Chiapello 2007, 112).”
 사용자 구매자 또한 자신의 취향대로 상품을 커스터마이즈 하는 것으로 간주된다. 모둘레이션 modulation은 상품의 다양성과 최대한의 차이를 만들어내는 프로세스로 간주되면서도 그들은 그럼에도 컨트롤을 내제한다. 
 
 > Deleuze says that, where the older mechanisms of confinement, foregrounded in Foucault's disciplinary society, are analogical, in the emerging control society, with its continual modulations, "the various forms of control. . . are inseparable variations, forming a system of varying geometry whose language is digital" (Deleuze 1995, 178).
 
-[ Grace Jones - Corporate Cannibal ] 에서 뒷배경 (흰색은) 배경색이 아니라 void이다. 
+[Grace Jones - Corporate Cannibal
+](https://www.youtube.com/watch?v=FgMn2OJmx3w) 에서 뒷배경 (흰색은) 배경색이 아니라 void이다. 
 
 ###  David Harvey’s space
 [https://www.youtube.com/watch?v=FgMn2OJmx3w]
@@ -50,6 +52,7 @@ Where classical cinema was analogical and indexical, digital video is processual
 ### Bazinian realism and Contemporary realism
 
 The very opposition between reality based and image-based modes of presentation breaks down in the contemporary world of electronic media and global capital. **Today, the most vivid and intense reality is precisely the reality of images.**  
+
 > Those images “require participation in depth” (McLuhan 1994, 31)”
 
 **Assayas** can express his faith in reality. It is only through a delirious aestheticism, and by embracing the artifice of images and sounds, that his movies are able to “relate physically with an audience,” and thereby actualise their extreme abstractions. Such a “relationship to physicality,” 
@@ -75,5 +78,5 @@ The very opposition between reality based and image-based modes of presentation 
 - [Massumi, Brian (2002). Parables for the Virtual: Movement, Afect, Sensation. Durham: Duke University Press.]
 - [McLuhan, Marshall (1994). Understanding Media: The Extensions of Man. Cambridge: MIT Press.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTM3NTM1MV19
+eyJoaXN0b3J5IjpbMTc0OTU1NDIxOV19
 -->
