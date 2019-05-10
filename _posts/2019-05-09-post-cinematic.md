@@ -1,4 +1,3 @@
-# 201905091351 post-cinematic
 ---
 parent: Cinema Research
 layout: collection
