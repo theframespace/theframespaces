@@ -77,6 +77,3 @@ The very opposition between reality based and image-based modes of presentation 
 - [Foucault, M., Davidson, A.I. & Burchell, G., 2008. The Birth of Biopolitics, Palgrave Macmillan.]
 - [Massumi, Brian (2002). Parables for the Virtual: Movement, Afect, Sensation. Durham: Duke University Press.]
 - [McLuhan, Marshall (1994). Understanding Media: The Extensions of Man. Cambridge: MIT Press.]
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTU1NDIxOV19
--->
