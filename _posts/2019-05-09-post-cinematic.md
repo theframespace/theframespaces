@@ -5,10 +5,8 @@ layout: collection
 title:  201905091351 post-cinematic
 date: 2019-05-09 13:51:00 +0800
 categories: Cinema-Research
-tags:
+tags: contemporary cinema netart
 ---
-
-@: 2019-05-09-post-cinematic
 
 Filme ➡︎ television as “cultural dominant” in the mid-twentieth century ➡︎ computer based and digitally generated “new media”
 
@@ -19,10 +17,11 @@ Brian Massumi (2002, 23-45) in differentiating between affect and emotion. For M
 신자유주의에서는 neoliberalism 푸코에 따르면 Homo oeconomicus 를 스스로 기업가라고 여기며, 그들 스스로 프로듀서, capital 그리고 그들스스로를 그 자신의 수입원으로 여긴다라고 해였다. “Homo oeconomicus as entrepreneur of himself, being for himself his own capital, being for himself his own producer, being for himself the source of his earnings” (2008, 226).” 이러한 환경에서 감정/정서는 투자해야할 자원이며 더 큰 수입을 기대할 수 있는 것이다. 
 
 ## post-Fordist society 
+
 > @ Shaviro@ In the control society, or in the post-Fordist information economy, forms can be changed at will to meet the needs of the immediate situation. The only fixed requirement is precisely to maintain an underlying flexibility: **an ability to take on any shape as needed**, a capacity to adapt quickly and smoothly to the demands of any form, or any procedure, whatsoever
 
 ### Flexibility and Modulation
-현재 유연성은 환영받는다. 일꾼들은 
+현대 사회에서 유연성은 환영받는다. 예전에선 포드공장의 전형으로 각 사람마다 정해진 역활 안에서의 활동이 환영받았다면 현재는 일꾼들은ㅇ
 > “must be “adaptible and flexible, able to switch from one situation to a very different one, and adjust to it; and versatile, capable of changing activity or tools, depending on the nature of the relationship entered into with others or with objects” (Boltanski and Chiapello 2007, 112).”
 사용자 구매자 또한 자신의 취향대로 상품을 커스터마이즈 하는 것으로 간주된다. 모둘레이션 modulation은 상품의 다양성과 최대한의 차이를 만들어내는 프로세스로 간주되면서도 그들은 그럼에도 컨트롤을 내제한다. 
 
@@ -76,5 +75,5 @@ The very opposition between reality based and image-based modes of presentation 
 - [Massumi, Brian (2002). Parables for the Virtual: Movement, Afect, Sensation. Durham: Duke University Press.]
 - [McLuhan, Marshall (1994). Understanding Media: The Extensions of Man. Cambridge: MIT Press.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTg3NjkyMl19
+eyJoaXN0b3J5IjpbMTkyMTM3NTM1MV19
 -->
